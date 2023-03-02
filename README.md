@@ -35,7 +35,7 @@
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject - Exam</a> 
 <ul dir="auto">
-<li><a href="https:v">PGR103, Course requirements</a>"(APPROVED)"</li> 
+<li><a href="https:">PGR103, Course requirements</a>"(APPROVED)"</li> 
 </ul>
 </li>
 <li><a href="https:">PGR102, Intro. to Programming - Exam</a> 
