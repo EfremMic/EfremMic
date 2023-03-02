@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efremmic&" alt="efremmic" /></p>
 
 
-<h1> kristiania Univercity College - Programming 2022-2025 </h1>
+<h1> kristiania Univercity College - Programming </h1>
 
 <h4> 1 st. Semester </h4>
 <ul dir="auto">
