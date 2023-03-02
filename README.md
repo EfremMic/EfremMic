@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [Coming!](Coming!)
 
-- 📝 I regularly write articles on [Malwares, Supercomputers, AI](Malwares, Supercomputers, AI)
+- 📝 I regularly write articles on [Malwares, Supercomputers, AI]
 
 - 📫 How to reach me **Here on Github**
-
-- ⚡ Fun fact **Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the world's first computer program in the mid-1800s, long before computers as we know them today were invented. Lovelace was a mathematician and writer who worked with Charles Babbage, a pioneer of computing technology. Her program was designed to be run on Babbage's "Analytical Engine," a mechanical computer that was never fully built. Lovelace's work helped lay the foundation for modern computing and earned her the title of "the first computer programmer."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,20 +35,20 @@
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject - Exam</a> 
 <ul dir="auto">
-<li><a href="https:v">PGR103, Course requirements</a></li> "(APPROVED)"
+<li><a href="https:v">PGR103, Course requirements</a>"(APPROVED)"</li> 
 </ul>
 </li>
 <li><a href="https:">PGR102, Intro. to Programming - Exam</a> 
 <ul dir="auto">
-<li><a href="https:">PGR102, Course requirements</a></li> "(APPROVED)"
+<li><a href="https:">PGR102, Course requirements</a>"(APPROVED)"</li>
 </ul>
 </li>
 <li><a href="https:">TK1104, Digital Techonology, Exam</a></li>
 <ul dir="auto">
-<li><a href="https:">TK1104, Course requirements</a></li> "(APPROVED)"
+<li><a href="https:">TK1104, Course requirements</a>"(APPROVED)"</li> 
 </ul>
 <li><a href="https:">DB1102, Database, Exam</a></li>
 <ul dir="auto">
-<li><a href="https:">DB1102, Course requirements</a></li> "(APPROVED)"
+<li><a href="https:">DB1102, Course requirements</a>"(APPROVED)"</li> 
 </ul>
 
