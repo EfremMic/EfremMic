@@ -49,3 +49,9 @@
 <li><a href="https:">DB1102, Course requirements</a>"(APPROVED)"</li> 
 </ul>
 
+<h4> 2 st. Semester </h4>
+<ul dir="auto">
+<li><a href="https://">TK2100 Information-Security - Exam</a> 
+<ul dir="auto">
+<li><a href="https:">TK2100, Course requirements</a>"(?)"</li> 
+</ul>
