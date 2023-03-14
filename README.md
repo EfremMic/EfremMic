@@ -28,7 +28,7 @@
 
 <h1> kristiania Univercity College - Programming </h1>
 
-<h4> 1 st. Semester </h4>
+<h4>1- Semester </h4>
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject - Exam</a> 
 <ul dir="auto">
@@ -40,18 +40,27 @@
 <li><a href="https:">PGR102, Course requirements</a>"(APPROVED)"</li>
 </ul>
 </li>
+  
 <li><a href="https:">TK1104, Digital Techonology, Exam</a></li>
 <ul dir="auto">
 <li><a href="https:">TK1104, Course requirements</a>"(APPROVED)"</li> 
 </ul>
-<li><a href="https:">DB1102, Database, Exam</a></li>
+<li><a href="https:">DB1102, Database, Exam</a>
 <ul dir="auto">
 <li><a href="https:">DB1102, Course requirements</a>"(APPROVED)"</li> 
 </ul>
-
-<h4> 2 st. Semester </h4>
-<ul dir="auto">
-<li><a href="https://">TK2100 Information-Security - Exam</a> 
-<ul dir="auto">
-<li><a href="https:">TK2100, Course requirements</a>"(?)"</li> 
+</li>
 </ul>
+
+<h4> 2- Semester </h4>
+<ul dir="auto">
+<li><a href="https://">TK2100 - Information Security -Exam</a> 
+<ul dir="auto">
+<li><a href="https:">TK2100, Course requirements</a>"(??)</li> 
+</ul>
+  </li>
+  </ul>
+
+<h4>3- Semester </h4>
+
+
