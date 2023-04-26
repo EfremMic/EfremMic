@@ -56,7 +56,7 @@
 <ul dir="auto">
 <li><a href="https://">TK2100 - Information Security -Exam</a> 
 <ul dir="auto">
-<li><a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">TK2100, Course requirements</a>"(??)</li> 
+<li><a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">TK2100, Course requirements</a>"(APPROVED)</li> 
 </ul>
   </li>
   </ul>
