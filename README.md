@@ -2,7 +2,7 @@
 <h3 align="center">For Educational purpose</h3>
 
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on **Any project**
 
