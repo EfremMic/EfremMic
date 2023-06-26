@@ -8,8 +8,7 @@
   <p style="color: #ffffff;">I'm a dedicated <span style="color: #c792ea;"> programming student</span> with a deep love for all things related to technology and software development. I'm constantly seeking new challenges and opportunities to expand my skills and knowledge. I believe in the power of <span style="color: #c792ea;">open-source collaboration</span> and enjoy contributing to projects that make a positive impact on the community.</p>
 
   <p style="color: #ffffff;">💼 Skills:</p>
-  <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. I enjoy solving problems, writing clean and efficient code, and constantly improving my skills through personal projects and coursework.</p>
-
+  <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. Enthusiastically committed to continuous learning and personal growth.
 <p style="color: #ffffff;">🌐 Projects:</p>
 <p style="color: #ffffff;">I'm still working on projects to develop and enhance my skills. These projects provide me with valuable opportunities to apply my knowledge, collaborate with others, and gain hands-on experience in various areas of programming.</p>
 
