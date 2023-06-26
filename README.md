@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Efrem M.</h1>
-<h3 align="center">For Educational purpose</h3>
+
+<div style="background-color: #2b2b2b; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #ffffff; font-size: 24px;">👋 Hello, I'm Efrem!</h1>
+
+  <h3 style="color: #c792ea;">// Aspiring programmer | Passionate learner | Open-source enthusiast //</h3>
+
+  <p style="color: #ffffff;">🌟 About Me:</p>
+  <p style="color: #ffffff;">I'm a dedicated <span style="color: #c792ea;"> programming student</span> with a deep love for all things related to technology and software development. I'm constantly seeking new challenges and opportunities to expand my skills and knowledge. I believe in the power of <span style="color: #c792ea;">open-source collaboration</span> and enjoy contributing to projects that make a positive impact on the community.</p>
+
+  <p style="color: #ffffff;">💼 Skills:</p>
+  <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. I enjoy solving problems, writing clean and efficient code, and constantly improving my skills through personal projects and coursework.</p>
+
+<p style="color: #ffffff;">🌐 Projects:</p>
+<p style="color: #ffffff;">I'm still working on projects to develop and enhance my skills. These projects provide me with valuable opportunities to apply my knowledge, collaborate with others, and gain hands-on experience in various areas of programming.</p>
 
 
-- 🌱 I’m currently learning **JAVA**
+  <p style="color: #ffffff;">📚 Education:</p>
+  <p style="color: #ffffff;">I'm currently pursuing a degree in <span style="color: #c792ea;">Programming</span> at <span style="color: #c792ea;">Kristiania University College</span>. I'm enthusiastic about learning and always looking for opportunities to enhance my programming skills both inside and outside of the classroom.</p>
 
-- 👯 I’m looking to collaborate on **Any project**
-
-- 👨‍💻 All of my projects are available at [Coming!](Coming!)
-
-- 📝 I regularly write articles on [Malwares, Supercomputers, AI]
-
-- 📫 How to reach me **Here on Github**
+  <p style="color: #ffffff;">🌱 Interests:</p>
+<p style="color: #ffffff;">Apart from coding, I have a keen interest in <span style="color: #c792ea;">Reading</span>, <span style="color: #c792ea;">working out</span>, and spending time with family and friends. I believe in maintaining a healthy work-life balance and enjoy exploring different activities that broaden my perspective.</p>
 
 
-<p align="left">
-</p>
+  <p style="color: #ffffff;">📫 Contact:</p>
+  <p style="color: #ffffff;">You can reach out to me via email at urbanlamda@gmail.com. I'm always open to networking, collaboration, and discussing exciting new projects.</p>
 
-<h3 align="left">Languages and Tools:</h3>
+  <p style="color: #ffffff;">🤝 Let's Connect:</p>
+  <p style="color: #ffffff;">Feel free to explore my GitHub repositories and contribute to ongoing projects. I'm also interested in connecting with fellow developers and sharing knowledge. Let's learn and grow together!</p>
+</div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efremmic&show_icons=true&locale=en&layout=compact" alt="efremmic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efremmic&show_icons=true&locale=en" alt="efremmic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efremmic&" alt="efremmic" /></p>
 
 
 <h1> kristiania Univercity College - Programming </h1>
