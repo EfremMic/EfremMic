@@ -27,6 +27,10 @@
   <p style="color: #ffffff;">Feel free to explore my GitHub repositories and contribute to ongoing projects. I'm also interested in connecting with fellow developers and sharing knowledge. Let's learn and grow together!</p>
 </div>
 
+**************************************************************************************************************
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EfremMic&theme=light&background=fff700)
+
+
 
 
 
