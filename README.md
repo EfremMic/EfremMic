@@ -33,7 +33,7 @@
 
 
 
-<h3> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h3>
+<h1> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h1>
 
 <h4>1- Semester </h4>
 <ul dir="auto">
