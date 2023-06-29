@@ -63,7 +63,7 @@
 <ul dir="auto">
 <li><a href="https://">TK2100 - Information Security -Exam</a> 
 <ul dir="auto">
-<li><a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">TK2100, Course requirements</a>"(APPROVED)</li> 
+<li><a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">TK2100, Course requirements</a>"(Godkjent)</li> 
 </ul>
   
 <li><a href="https:">PGR1121, Programing in Java, Exam</a></li>
@@ -78,6 +78,6 @@
 </li>
 </ul>
 
-<h4>3- Semester </h4>
+
 
 
