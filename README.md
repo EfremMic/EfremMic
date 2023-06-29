@@ -29,28 +29,32 @@
 
 
 
-<h2> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h2>
+
+
+
+
+<h3> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h3>
 
 <h4>1- Semester </h4>
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject - Exam</a> 
 <ul dir="auto">
-<li><a href="https:">PGR103, Course requirements</a>"(APPROVED)"</li> 
+<li><a href="https:">PGR103, Course requirements</a>"(Godkjent)"</li> 
 </ul>
 </li>
 <li><a href="https:">PGR102, Intro. to Programming - Exam</a> 
 <ul dir="auto">
-<li><a href="https:">PGR102, Course requirements</a>"(APPROVED)"</li>
+<li><a href="https:">PGR102, Course requirements</a>"(Godkjent)"</li>
 </ul>
 </li>
   
 <li><a href="https:">TK1104, Digital Techonology, Exam</a></li>
 <ul dir="auto">
-<li><a href="https:">TK1104, Course requirements</a>"(APPROVED)"</li> 
+<li><a href="https:">TK1104, Course requirements</a>"(Godkjent)"</li> 
 </ul>
 <li><a href="https:">DB1102, Database, Exam</a>
 <ul dir="auto">
-<li><a href="https:">DB1102, Course requirements</a>"(APPROVED)"</li> 
+<li><a href="https:">DB1102, Course requirements</a>"(Godkjent)"</li> 
 </ul>
 </li>
 </ul>
@@ -65,8 +69,7 @@
 <li><a href="https:">PGR1121, Programing in Java, Exam</a></li>
 
   
-<li><a href="https://github.com/EfremMic/Data-Structure-And-Algorithms-EXAM-2023
-">PG4200, Algorithm and datastructure, Exam</a></li>
+<li><a href="https://github.com/EfremMic/Data-Structure-And-Algorithms-EXAM-2023">PG4200, Algorithm and datastructure, Exam</a></li>
 
   
   
