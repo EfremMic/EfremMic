@@ -1,8 +1,8 @@
 
 <div style="background-color: #2b2b2b; padding: 20px; border-radius: 10px;">
   <h1 style="color: #ffffff; font-size: 24px;">👋 Hello, I'm Efrem!</h1>
-  <link>![](https://komarev.com/ghpvc/?username=your-github-username).</link>
-
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  
   <h3 style="color: #c792ea;">// Aspiring programmer | Passionate learner | Open-source enthusiast //</h3>
 
   <p style="color: #ffffff;">🌟 About Me:</p>
