@@ -33,7 +33,7 @@
 ![Efrem`s Git status](https://github-readme-stats.vercel.app/api?username=EfremMic&show_icons=true&theme=transparent)
 
 
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_EfremMic&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremMic&layout=compact)
 
 
 
