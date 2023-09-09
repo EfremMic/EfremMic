@@ -28,7 +28,7 @@
 </div>
 
 **************************************************************************************************************
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EfremMic&theme=light&background=fff700)
+
 
 ![Efrem`s Git status](https://github-readme-stats.vercel.app/api?username=EfremMic&show_icons=true&theme=transparent)
 
