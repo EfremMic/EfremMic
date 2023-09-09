@@ -30,7 +30,7 @@
 **************************************************************************************************************
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EfremMic&theme=light&background=fff700)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Efrem`s Git status](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 
