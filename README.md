@@ -1,7 +1,7 @@
 
 <div style="background-color: #2b2b2b; padding: 20px; border-radius: 10px;">
   <h1 style="color: #ffffff; font-size: 24px;">👋 Hello, I'm Efrem!</h1>
-  ![](https://komarev.com/ghpvc/?username=EfremMic&color=yellow)
+  ![](https://komarev.com/ghpvc/?username=EfremMic&style=flat-square&color=yellow)
   
   <h3 style="color: #c792ea;">// Aspiring programmer | Passionate learner | Open-source enthusiast //</h3>
 
@@ -30,8 +30,8 @@
 
 **************************************************************************************************************
 
-<div>!
-  [Efrem`s Git status](https://github-readme-stats.vercel.app/api?username=EfremMic&show_icons=true&theme=transparent).
+<div> 
+  ![Efrem`s Git status](https://github-readme-stats.vercel.app/api?username=EfremMic&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremMic&layout=compact)
 </div>
 
