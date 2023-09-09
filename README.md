@@ -29,8 +29,7 @@
 </div>
 
 **************************************************************************************************************
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?EfremMic=anuraghazra&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremMic&layout=compact)
 
 <h1> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h1>
 
