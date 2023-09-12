@@ -68,14 +68,18 @@
 
   
 <li><a href="https://github.com/EfremMic/Data-Structure-And-Algorithms-EXAM-2023">PG4200, Algorithm and datastructure, Exam</a></li>
-
-  
-  
-  
-  
 </li>
 </ul>
 
+
+************************************************************************************************************************************************
+************************************************************************************************************************************************
+<h1>Articles</h1>
+| Title | Link |
+| --- | --- |
+| `Stuxnet:Anatomy of a Cyber Weapon` | <a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf"></a> |
+| `` | |
+| `` | |
 
 
 
