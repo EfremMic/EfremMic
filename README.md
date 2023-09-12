@@ -35,14 +35,14 @@
 
 <h4>1- Semester </h4>
 <ul dir="auto">
-<li><a href="https://">PGR103 - Creative webproject - Exam</a> 
+<li><a href="https://">PGR103 - Creative webproject</a> 
 <ul dir="auto">
-<li><a href="https:">PGR103, Course requirements</a>"(Godkjent)"</li> 
+<li><a href="https:">PGR103, Course requirements</a>""</li> 
 </ul>
 </li>
-<li><a href="https:">PGR102, Intro. to Programming - Exam</a> 
+<li><a href="https:">PGR102, Intro. to Programming</a> 
 <ul dir="auto">
-<li><a href="https:">PGR102, Course requirements</a>"(Godkjent)"</li>
+<li><a href="https:">PGR102, Course requirements</a></li>
 </ul>
 </li>
   
