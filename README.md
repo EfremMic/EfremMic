@@ -46,11 +46,11 @@
 </ul>
 </li>
   
-<li><a href="https:">TK1104, Digital Techonology, Exam</a></li>
+<li><a href="https://github.com/EfremMic/Digital_Technology_Lectures">TK1104-Digital Techonology Lectures</a></li>
 <ul dir="auto">
-<li><a href="https://github.com/EfremMic/AI-Supercomputers-VS-Metaverse-PPW/blob/main/METAVERSE-%20EFREM%20MICKAEL.pdf">TK1104, Course requirements</a></li> 
+<li><a href="https://github.com/EfremMic/AI-Supercomputers-VS-Metaverse-PPW/blob/main/METAVERSE-%20EFREM%20MICKAEL.pdf">My-Pre-exam presentation</a></li> 
 </ul>
-<li><a href="https://github.com/EfremMic/Database-lectures-2022">DB1102 - Database lecture -2022</a>
+<li><a href="https://github.com/EfremMic/Database-lectures-2022">DB1102 - Database Lectures</a>
 <ul dir="auto">
 <li><a href="https:">DB1102, Course requirements</a></li> 
 </ul>
