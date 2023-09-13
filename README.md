@@ -35,9 +35,9 @@
 
 <h4>1- Semester </h4>
 <ul dir="auto">
-<li><a href="https://">PGR103 - Creative webproject</a> 
+<li><a href="https://">PGR103 - Creative webproject Lectures #Will be added soon!</a> 
 <ul dir="auto">
-<li><a href="https:">PGR103, Course requirements</a></li> 
+<li><a href="https://github.com/EfremMic/Pre_Exam_web_project_EA_SPORT">My-Pre-exam web-project</a></li> 
 </ul>
 </li>
 <li><a href="https:">PGR102, Intro. to Programming</a> 
