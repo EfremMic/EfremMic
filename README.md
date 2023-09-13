@@ -50,7 +50,7 @@
 <ul dir="auto">
 <li><a href="https://github.com/EfremMic/AI-Supercomputers-VS-Metaverse-PPW/blob/main/METAVERSE-%20EFREM%20MICKAEL.pdf">TK1104, Course requirements</a></li> 
 </ul>
-<li><a href="https:">DB1102, Database, Exam</a>
+<li><a href="https://github.com/EfremMic/Database-lectures-2022">DB1102 - Database lecture -2022</a>
 <ul dir="auto">
 <li><a href="https:">DB1102, Course requirements</a></li> 
 </ul>
