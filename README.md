@@ -35,6 +35,7 @@
 <h1> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h1>
 
 <h4>1- Semester </h4>
+<details open>
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject Lectures #Will be added soon!</a> 
 <ul dir="auto">
@@ -57,6 +58,7 @@
 </ul>
 </li>
 </ul>
+</details>
 
 <h4> 2- Semester </h4>
 <ul dir="auto">
