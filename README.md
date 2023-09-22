@@ -11,8 +11,9 @@
   <p style="color: #ffffff;">💼 Skills:</p>
   <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. Enthusiastically committed to continuous learning and personal growth.
 <p style="color: #ffffff;">🌐 Projects:</p>
+<details open>
 <p style="color: #ffffff;">I'm still working on projects to develop and enhance my skills. These projects provide me with valuable opportunities to apply my knowledge, collaborate with others, and gain hands-on experience in various areas of programming.</p>
-
+</details>
 
   <p style="color: #ffffff;">📚 Education:</p>
   <p style="color: #ffffff;">I'm currently pursuing a degree in <span style="color: #c792ea;">Programming</span> at <span style="color: #c792ea;">Kristiania University College</span>. I'm enthusiastic about learning and always looking for opportunities to enhance my programming skills both inside and outside of the classroom.</p>
