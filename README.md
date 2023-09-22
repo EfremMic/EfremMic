@@ -11,7 +11,7 @@
   <p style="color: #ffffff;">💼 Skills:</p>
   <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. Enthusiastically committed to continuous learning and personal growth.
 <p style="color: #ffffff;">🌐 Projects:</p>
-<details open>
+<details >
 <p style="color: #ffffff;">I'm still working on projects to develop and enhance my skills. These projects provide me with valuable opportunities to apply my knowledge, collaborate with others, and gain hands-on experience in various areas of programming.</p>
 </details>
 
@@ -35,7 +35,7 @@
 <h1> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h1>
 
 <pre> <h4> F I R S T   S E M E S T E R </h4></pre>
-<details open>
+<details >
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject Lectures #Will be added soon!</a> 
 <ul dir="auto">
@@ -61,7 +61,7 @@
 </details>
 
 <pre> <h3> S E C O N D   S E M E S T E R </h3></pre>
-<details open>
+<details >
 <ul dir="auto">
 <li><a href="https://">TK2100 - Information Security -Exam</a> 
 <ul dir="auto">
