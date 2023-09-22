@@ -34,7 +34,7 @@
 
 <h1> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h1>
 
-<h4>1- Semester </h4>
+<pre> <h4> F I R S T   S E M E S T E R </h4></pre>
 <details open>
 <ul dir="auto">
 <li><a href="https://">PGR103 - Creative webproject Lectures #Will be added soon!</a> 
@@ -60,7 +60,8 @@
 </ul>
 </details>
 
-<h4> 2- Semester </h4>
+<pre> <h3> S E C O N D   S E M E S T E R </h3></pre>
+<details open>
 <ul dir="auto">
 <li><a href="https://">TK2100 - Information Security -Exam</a> 
 <ul dir="auto">
@@ -74,7 +75,7 @@
 </li>
 </ul>
 
-
+</details>
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
 <h1>Papers</h1>
