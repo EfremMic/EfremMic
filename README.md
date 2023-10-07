@@ -28,6 +28,11 @@
   <p style="color: #ffffff;">🤝 Let's Connect:</p>
   <p style="color: #ffffff;">Feel free to explore my GitHub repositories and contribute to ongoing projects. I'm also interested in connecting with fellow developers and sharing knowledge. Let's learn and grow together!</p>
 </div>
+<div>
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
+</div>
 
 **************************************************************************************************************
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremMic&layout=compact)
