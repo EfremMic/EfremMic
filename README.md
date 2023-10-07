@@ -32,6 +32,21 @@
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+- C#
+- .NET
+- JavaScript (JS)
+- HTML
+- SQL
+- Java
+- Express.js
+- React
+- Node.js
+- JSON
+- Vite
+- Visual Studio
+- Git
+- GitHub
 </div>
 
 **************************************************************************************************************
