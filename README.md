@@ -119,9 +119,9 @@
 ---
 <h1>Papers</h1>
 
-|Title |Link |Authour|Year|
-| --- | --- | --- | --- |
-| `Stuxnet:Anatomy of a Cyber Weapon` |<a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">Stuxnet</a> | Efrem Mickael| 2022|
+|Title |Link |Author|Year|Language|
+| --- | --- | --- | --- | --- |
+| `Stuxnet:Anatomy of a Cyber Weapon` |<a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">Stuxnet</a> | Efrem Mickael| 2022|EN|
 
 
 
