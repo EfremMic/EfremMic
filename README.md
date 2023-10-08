@@ -6,24 +6,44 @@
   <h3 style="color: #c792ea;">// Aspiring programmer | Passionate learner | Open-source enthusiast //</h3>
 
   <p style="color: #ffffff;">🌟 About Me:</p>
-  <p style="color: #ffffff;">I'm a dedicated <span style="color: #c792ea;"> programming student</span> with a deep love for all things related to technology and software development. I'm constantly seeking new challenges and opportunities to expand my skills and knowledge. I believe in the power of <span style="color: #c792ea;">open-source collaboration</span> and enjoy contributing to projects that make a positive impact on the community.</p>
+  <p style="color: #ffffff;">I'm a dedicated <span style="color: #c792ea;"> programming💻 student</span> with a deep love for all things related to technology and software development. I'm constantly seeking new challenges and opportunities to expand my skills and knowledge. I believe in the power of <span style="color: #c792ea;">open-source collaboration.</span> </p>
 
-  <p style="color: #ffffff;">💼 Skills:</p>
+<p style="color: #ffffff;"><h3> ℹ️ More about Me</h3></p>
+  <ul><lo><details >
+  <p style="color: #ffffff;"><h3> 💼 Skills</h3> </p>
+ <ul><lo><details >
   <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. Enthusiastically committed to continuous learning and personal growth.
-<p style="color: #ffffff;">🌐 Projects:</p>
-<details >
-<p style="color: #ffffff;">I'm still working on projects to develop and enhance my skills. These projects provide me with valuable opportunities to apply my knowledge, collaborate with others, and gain hands-on experience in various areas of programming.</p>
-</details>
+  </details ></lo></ul>
 
-  <p style="color: #ffffff;">📚 Education:</p>
-  <p style="color: #ffffff;">I'm currently pursuing a degree in <span style="color: #c792ea;">Programming</span> at <span style="color: #c792ea;">Kristiania University College</span>. I'm enthusiastic about learning and always looking for opportunities to enhance my programming skills both inside and outside of the classroom.</p>
+<p style="color: #ffffff;"><h3> 🌐 Projects</h3></p>
+  <ul><lo><details >
+  <p style="color: #ffffff;">This part will be updated soon!🛠️</p>
+  </details ></lo></ul>
+  
 
-  <p style="color: #ffffff;">🌱 Interests:</p>
-<p style="color: #ffffff;">Apart from coding, I have a keen interest in <span style="color: #c792ea;">Reading</span>, <span style="color: #c792ea;">working out</span>, and spending time with family and friends. I believe in maintaining a healthy work-life balance and enjoy exploring different activities that broaden my perspective.</p>
+<p style="color: #ffffff;"><h3> 📚 Education</h3></p>
+  <ul><lo><details >
+   <p style="color: #ffffff;">I'm currently pursuing a degree🧑‍🎓 in <span style="color: #c792ea;">Programming💻</span> at <span style="color: #c792ea;">Kristiania University College🏫</span>. I'm enthusiastic about learning and always looking for opportunities to enhance my programming skills both inside and outside of the classroom.</p>
+  </details ></lo></ul>
 
 
-  <p style="color: #ffffff;">📫 Contact:</p>
-  <p style="color: #ffffff;">You can reach out to me via email at urbanlamda@gmail.com. I'm always open to networking, collaboration, and discussing exciting new projects.</p>
+ <p style="color: #ffffff;"><h3>🌱 Interests</h3></p>
+  <ul><lo><details >
+  <p style="color: #ffffff;">Apart from coding and learning, I have a keen interest in <span style="color: #c792ea;">reading📖</span>, <span style="color: #c792ea;">working out🏃</span>, and spending time with family and friends. I believe in maintaining a healthy work-life balance and enjoy exploring different activities that broaden my perspective.</p>
+  </details ></lo></ul>
+  
+
+
+<p style="color: #ffffff;"><h3>📫 Contact</h3></p>
+  <ul><lo><details >
+   <p style="color: #ffffff;"> I'm always open to networking, collaboration, and discussing exciting new projects.</p>
+<p>Contact me via email: <a href="mailto:urbanlamda@gmail.com">urbanlamda@gmail.com</a></p>
+  </details ></lo></ul>
+  </details ></lo></ul>
+  
+ 
+  
+ 
 
   <p style="color: #ffffff;">🤝 Let's Connect:</p>
   <p style="color: #ffffff;">Feel free to explore my GitHub repositories and contribute to ongoing projects. I'm also interested in connecting with fellow developers and sharing knowledge. Let's learn and grow together!</p>
