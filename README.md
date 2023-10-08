@@ -12,7 +12,7 @@
   <ul><lo><details >
   <p style="color: #ffffff;"><h3> 💼 Skills</h3> </p>
  <ul><lo><details >
-  <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;">JavaScript, Java, HTML/CSS, Python</span>. Enthusiastically committed to continuous learning and personal growth.
+  <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;"><code>JavaScript</code>, <code>Java</code>, <code>C#</code>,<code>Python</code>, <code>React</code>, <code>Node.js</code>, <code>Express</code>, <code>Mongoose</code>, <code>SQLite</code>, <code>SQL</code></span>. Enthusiastically committed to continuous learning and personal growth.
   </details ></lo></ul>
 
 <p style="color: #ffffff;"><h3> 🌐 Projects</h3></p>
