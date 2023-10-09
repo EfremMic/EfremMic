@@ -18,6 +18,12 @@
 <p style="color: #ffffff;"><h3> 🌐 Projects</h3></p>
   <ul><lo><details >
 
+  <p>Welcome to my collection of projects! Below, you'll find a selection of projects. Please note that this list is a work in progress, and I will actively add more projects. Check back later for updates or check my repository.
+
+Feel free to explore the existing projects, and if you have any questions or feedback, don't hesitate to reach out.
+
+Thank you for visiting!</p>
+
 
 
  <summary><strong>Simple Projects</strong></summary>
