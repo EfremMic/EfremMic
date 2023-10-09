@@ -18,6 +18,24 @@
 <p style="color: #ffffff;"><h3> 🌐 Projects</h3></p>
   <ul><lo><details >
   <p style="color: #ffffff;">This part will be updated soon!🛠️</p>
+
+
+ <summary><strong>Projects</strong></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/your-username/project-1">
+        <strong>Project 1</strong>
+      </a>
+      - A brief description of Project 1.
+    </li>
+    
+  </ul>
+
+
+
+
+
+    
   </details ></lo></ul>
   
 
