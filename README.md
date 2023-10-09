@@ -17,16 +17,16 @@
 
 <p style="color: #ffffff;"><h3> 🌐 Projects</h3></p>
   <ul><lo><details >
-  <p style="color: #ffffff;">This part will be updated soon!🛠️</p>
 
 
- <summary><strong>Projects</strong></summary>
+
+ <summary><strong>Simple Projects</strong></summary>
   <ul>
     <li>
-      <a href="https://github.com/your-username/project-1">
-        <strong>Project 1</strong>
+      <a href="https://github.com/EfremMic/PickRandomCards">
+        <strong>Pick a Random Card</strong>
       </a>
-      - A brief description of Project 1.
+      - Pick a Random Card is a very simple but great way to learn C#. This project demonstrates how to pick a random playing card from a standard deck of 52 cards 🃏.
     </li>
     
   </ul>
