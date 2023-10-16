@@ -30,13 +30,13 @@ Thank you for visiting!</p>
   <ul>
     <li>
       <a href="https://github.com/EfremMic/PickRandomCards">
-        <strong>Pick a Random Card</strong>
+        <strong>Pick a Random Card ♠️</strong>
       </a>
       - Pick a Random Card is a very simple but great way to learn C#. This project demonstrates how to pick a random playing card from a standard deck of 52 cards 🃏.
     </li>
 
  <li>
-      <a href=" https://github.com/EfremMic/Real_Estate_Bidding_App#license">
+      <a href="https://github.com/EfremMic/Real_Estate_Bidding_App#license">
         <strong>Real Estate Bidding App 🏘️</strong>
       </a>
       - Real Estate Bidding App: A user-friendly command-line application that simulates real estate bidding. Users can bid on houses, view current bid information, and explore the world of real estate auctions. This Java application is a fun way to experience the thrill of real estate bidding without leaving your computer.
