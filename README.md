@@ -22,7 +22,7 @@
 
 Feel free to explore the existing projects, and if you have any questions or feedback, don't hesitate to reach out.
 
-Thank you for visiting!</p>
+Thank you for visiting❤️!</p>
 
 
 
