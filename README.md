@@ -1,164 +1,27 @@
-![](https://komarev.com/ghpvc/?username=EfremMic&label=PROFILE+VIEWS)
-<div style="background-color: #2b2b2b; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #ffffff; font-size: 24px;">👋 Hello, I'm Efrem!</h1>
-  
-  
-  <h3 style="color: #c792ea;">// Aspiring programmer | Passionate learner | Open-source enthusiast //</h3>
-
-  <p style="color: #ffffff;">🌟 About Me:</p>
-  <p style="color: #ffffff;">I'm a dedicated <span style="color: #c792ea;"> programming💻 student</span> with a deep love for all things related to technology and software development. I'm constantly seeking new challenges and opportunities to expand my skills and knowledge. I believe in the power of <span style="color: #c792ea;">open-source collaboration.</span> </p>
-
-<p style="color: #ffffff;"><h3> ℹ️ More about Me</h3></p>
-  <ul><lo><details >
-  <p style="color: #ffffff;"><h3> 💼 Skills</h3> </p>
- <ul><lo><details >
-  <p style="color: #ffffff;">My primary areas of focus include <span style="color: #c792ea;"><code>JavaScript</code>, <code>Java</code>, <code>C#</code>,<code>Python</code>, <code>React</code>, <code>Node.js</code>, <code>Express</code>, <code>Mongoose</code>, <code>SQLite</code>, <code>SQL</code></span>. Enthusiastically committed to continuous learning and personal growth.
-  </details ></lo></ul>
-
-<p style="color: #ffffff;"><h3> 🌐 Projects</h3></p>
-  <ul><lo><details >
-
-  <p>Welcome to my collection of projects! Below, you'll find a selection of projects. Please note that this list is a work in progress, and I will actively add more projects. Check back later for updates or check my repository.
-
-Feel free to explore the existing projects, and if you have any questions or feedback, don't hesitate to reach out.
-
-Thank you for visiting❤️!</p>
+# 💫 About Me:
+🔭 I’m currently working on Microservices & AI dev<br>👯 I’m looking to collaborate on AI/Machine learning<br>🌱 I’m currently learning Microservices & Cloud-dev.<br>💬 Ask me about anything tech.<br>⚡ Fun fact: I talk to my code—it's a love-hate relationship.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efrem-mickael) 
 
- <summary><strong>Simple Projects</strong></summary>
-  <ul>
-    <li>
-      <a href="https://github.com/EfremMic/PickRandomCards">
-        <strong>Pick a Random Card ♠️</strong>
-      </a>
-      - Pick a Random Card is a very simple but great way to learn C#. This project demonstrates how to pick a random playing card from a standard deck of 52 cards 🃏.
-    </li>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EfremMic&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EfremMic&theme=solarized-light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremMic&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- <li>
-      <a href="https://github.com/EfremMic/Real_Estate_Bidding_App#license">
-        <strong>Real Estate Bidding App 🏘️</strong>
-      </a>
-      - Real Estate Bidding App: A user-friendly command-line application that simulates real estate bidding. Users can bid on houses, view current bid information, and explore the world of real estate auctions. This Java application is a fun way to experience the thrill of real estate bidding without leaving your computer.
-    </li>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EfremMic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-   
-    
-  </ul>
-
-
-
-
-
-    
-  </details ></lo></ul>
-  
-
-<p style="color: #ffffff;"><h3> 📚 Education</h3></p>
-  <ul><lo><details >
-   <p style="color: #ffffff;">I'm currently pursuing a degree🧑‍🎓 in <span style="color: #c792ea;">Programming💻</span> at <span style="color: #c792ea;">Kristiania University College🏫</span>. I'm enthusiastic about learning and always looking for opportunities to enhance my programming skills both inside and outside of the classroom.</p>
-  </details ></lo></ul>
-
-
- <p style="color: #ffffff;"><h3>🌱 Interests</h3></p>
-  <ul><lo><details >
-  <p style="color: #ffffff;">Apart from coding and learning, I have a keen interest in <span style="color: #c792ea;">reading📖</span>, <span style="color: #c792ea;">working out🏃</span>, and spending time with family and friends. I believe in maintaining a healthy work-life balance and enjoy exploring different activities that broaden my perspective.</p>
-  </details ></lo></ul>
-  
-
-
-<p style="color: #ffffff;"><h3>📫 Contact</h3></p>
-  <ul><lo><details >
-   <p style="color: #ffffff;"> I'm always open to networking, collaboration, and discussing exciting new projects.</p>
-<p>Contact me via email: <a href="mailto:urbanlamda@gmail.com">urbanlamda@gmail.com</a></p>
-  </details ></lo></ul>
-  </details ></lo></ul>
-  
- 
-  
- 
-
-  <p style="color: #ffffff;">🤝 Let's Connect:</p>
-  <p style="color: #ffffff;">Feel free to explore my GitHub repositories and contribute to ongoing projects. I'm also interested in connecting with fellow developers and sharing knowledge. Let's learn and grow together!</p>
-</div>
-<div>
-  ---
-
-### :hammer_and_wrench: Languages and Tools :
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="MongoDB" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/>&nbsp;
-</div>
-
-
-
-**************************************************************************************************************
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfremMic&layout=compact)
-
-<h1> <a href="https://www.kristiania.no/studier/bachelor/informasjonsteknologi-programmering/" </a> Kristiania University College - Programming </h1>
-
-<pre> <h4> F I R S T   S E M E S T E R </h4></pre>
-<details >
-<ul dir="auto">
-<li><a href="https://">PGR103 - Creative webproject Lectures #Will be added soon!</a> 
-<ul dir="auto">
-<li><a href="https://github.com/EfremMic/Pre_Exam_web_project_EA_SPORT">My-Pre-exam web-project</a></li> 
-</ul>
-</li>
-<li><a href="https:">PGR102, Intro. to Programming</a> 
-<ul dir="auto">
-<li><a href="https:">PGR102, Course requirements</a></li>
-</ul>
-</li>
-  
-<li><a href="https://github.com/EfremMic/Digital_Technology_Lectures">TK1104-Digital Techonology Lectures</a></li>
-<ul dir="auto">
-<li><a href="https://github.com/EfremMic/AI-Supercomputers-VS-Metaverse-PPW/blob/main/METAVERSE-%20EFREM%20MICKAEL.pdf">My-Pre-exam presentation</a></li> 
-</ul>
-<li><a href="https://github.com/EfremMic/Database-lectures-2022">DB1102 - Database Lectures</a>
-<ul dir="auto">
-<li><a href="https:">DB1102, Course requirements</a></li> 
-</ul>
-</li>
-</ul>
-</details>
-
-<pre> <h3> S E C O N D   S E M E S T E R </h3></pre>
-<details >
-<ul dir="auto">
-<li><a href="https://">TK2100 - Information Security -Exam</a> 
-<ul dir="auto">
-<li><a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">TK2100, Course requirements</a>"(Godkjent)</li> 
-</ul>
-  
-<li><a href="https:">PGR1121, Programing in Java, Exam</a></li>
-
-  
-<li><a href="https://github.com/EfremMic/Data-Structure-And-Algorithms-EXAM-2023">PG4200, Algorithm and datastructure, Exam</a></li>
-</li>
-</ul>
-
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EfremMic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
----
-<h1>Papers</h1>
+[![](https://visitcount.itsvg.in/api?id=EfremMic&icon=0&color=0)](https://visitcount.itsvg.in)
 
-|Title |Link |Author|Year|Language|Pages|Reading Time|
-| --- | --- | --- | --- | --- | --- | --- |
-| `Stuxnet:Anatomy of a Cyber Weapon` |<a href="https://github.com/EfremMic/INFORMATION-SECURITY-COURSE-REQUIREMENTS-TK2100-2023/blob/main/Innlevering-Stuxnet-Efrem.pdf">Stuxnet</a> | Efrem Mickael| 2022|EN|7|10 min|
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
