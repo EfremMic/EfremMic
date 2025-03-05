@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microservices & AI dev<br>👯 I’m looking to collaborate on AI/Machine learning<br>🌱 I’m currently learning Kubernetes for Microservices & AWS for Cloud-dev.<br>💬 Ask me about anything tech.<br>⚡ Fun fact: I talk to my code—it's a love-hate relationship.
+🔭 I’m currently working on AI-driven applications & Microservices development.<br>👯  I’m looking to collaborate on AI, Machine Learning, and automation projects.<br>🌱 I’m currently learning Kubernetes for Microservices & AWS for Cloud-dev.<br>💬 Ask me about anything tech.<br>⚡ Fun fact: I talk to my code—it's a love-hate relationship.
 
 
 ## 🌐 Socials:
